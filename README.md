@@ -1,9 +1,6 @@
-Here's a professional `README.md` for your JioPay Chatbot backend repository hosted on AWS EC2:
-
 ```markdown
 # JioPay Customer Support Chatbot - Backend
 
-![JioPay Logo](https://www.jio.com/en-in/images/jio-logo.svg)  
 *Retrieval-Augmented Generation (RAG) powered customer support system*
 
 ## 📌 Overview
@@ -110,26 +107,3 @@ journalctl -u jiopay-chatbot -f
 # Health check
 curl http://localhost:8000/health
 ```
-
-## 📜 License
-This project is proprietary software owned by Jio Platforms Limited.
-
-## ✉️ Contact
-For technical support:
-- **Maintainer**: Shreevats Dhyani
-- **Email**: your-email@jioplatform.com
-```
-
-Key features of this README:
-1. **Clear architecture visualization** with tech stack icons
-2. **Step-by-step deployment guide** for EC2
-3. **API documentation** with request/response examples
-4. **Security best practices** specific to AWS deployment
-5. **Frontend integration notes** for your Vercel-hosted UI
-6. **Monitoring instructions** for production environments
-
-You may want to:
-- Add actual JioPay logo URL
-- Update contact information
-- Include any additional environment variables
-- Add load testing results if available
